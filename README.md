@@ -167,14 +167,62 @@ class CurrentWork:
 ## 🏢 Professional Experience
 
 ### 🌟 GoSaaS Inc
-**Senior Cloud DevOps Engineer** | *Building Oracle Cloud Solutions*
+**Senior Cloud DevOps Engineer** | *Feb 2023 - Present (2+ years)*  
+📍 Lahore, Punjab, Pakistan | [GoSaaS.ai](https://www.gosaas.ai/)
 
-[GoSaaS](https://www.gosaas.ai/) helps clients design, build, sell and ship better products with Oracle. We specialize in:
-- 📦 PLM (Product Lifecycle Management)
-- 🚚 Logistics (OTM, GTM, WMS)
-- 📊 AI & Analytics (FDI)
-- ☁️ Oracle Cloud Implementations
-- 🔄 SCM/ERP Solutions
+[GoSaaS](https://www.gosaas.ai/) helps clients design, build, sell and ship better products with Oracle. We specialize in PLM, Logistics, AI & Analytics, and Oracle Cloud implementations.
+
+#### Key Achievements & Responsibilities:
+
+- 🚀 **Kubernetes Migration Leadership**: Successfully migrated **5 production applications** from traditional servers to Kubernetes, covering both development and production environments, improving scalability and resource utilization by 40%
+
+- 💰 **Cost Optimization**: Led the migration of monitoring infrastructure from AWS CloudWatch and Oracle Cloud managed services to self-managed **Prometheus and Grafana stack**, achieving **50% cost reduction** while maintaining comprehensive observability
+
+- 🔄 **CI/CD & GitOps Implementation**: Designed and managed **Jenkins pipelines** for building and pushing Docker images to Amazon ECR, integrated with **ArgoCD** for automated GitOps-based deployments across multiple product releases
+
+- 🏗️ **Infrastructure as Code**: Developed secure, highly available, and scalable infrastructure using **Terraform IaC**, ensuring infrastructure consistency and reducing deployment time by 60%
+
+- 📊 **Comprehensive Monitoring**: Implemented **Prometheus, Loki, and Grafana** to monitor AWS servers, Oracle Cloud servers, and Kubernetes clusters for optimal performance and real-time alerting
+
+- 🔧 **Configuration Management**: Utilized **Ansible** for streamlined, error-free configuration management across 100+ servers
+
+- 🔐 **Security & Compliance**: Implemented AWS Best Practices and **CIS Standards** for Security, Identity, and Compliance; enhanced organizational security with **Teleport and Wazuh Endpoint** monitoring
+
+- 🤖 **Automation**: Proficient in Linux administration and scripting; enhanced operational efficiency through **Python and Bash** automation scripts for daily tasks
+
+- 💾 **Database Management**: Managed RDS database backups, restoration, and performance optimization
+
+- 👥 **Team Leadership**: Handle DevOps queries from **200+ employees** and mentor trainee engineers, ensuring smooth operations and knowledge transfer
+
+- 📧 **G Suite Administration**: Managed and automated Google Workspace (G Suite) for organizational efficiency
+
+**Tech Stack**: Kubernetes, Docker, Jenkins, ArgoCD, Terraform, Ansible, AWS (EC2, ECS, EKS, RDS, S3, CloudWatch, ECR), Oracle Cloud, Prometheus, Grafana, Loki, Datadog, Python, Bash, Linux
+
+---
+
+### 💼 SkipQ
+**DevOps Engineer Intern** | *Jun 2022 - Sep 2022 (4 months)*  
+📍 Pakistan (Remote)
+
+#### Key Projects & Responsibilities:
+
+- ☁️ **Infrastructure as Code**: Built and operated web-health monitoring applications using **AWS CDK** (Infrastructure-as-Code) with CloudWatch Dashboard, implementing custom alarms and notifications via **Amazon SNS**
+
+- 🔄 **CI/CD Automation**: Automated multiple deployment stages using AWS **CodePipeline and CodeBuild**, storing logs in CloudWatch and implementing automatic rollback mechanisms based on CloudWatch metrics and alarms
+
+- 🌐 **API Development**: Designed and built public **CRUD API Gateway** endpoints with RESTful architecture, integrated with **DynamoDB** for persistent data storage and implemented full CRUD operations
+
+- 🐍 **Application Development**: Developed RESTful Python applications on AWS using **AWS Lambda** for serverless computing and event-driven architectures
+
+- 🌐 **Networking & Compute**: Gained hands-on experience with **AWS VPC, Networking, EC2**, and software containerization platforms like **Docker**
+
+- 🔧 **Version Control & Collaboration**: Maintained Git workflows for version control, conducted code reviews, and set up project dashboards for team collaboration
+
+- 📚 **AWS Services Expertise**: Worked extensively with Amazon SNS, SQS, SES, CodeBuild, CodeCommit, CodeDeploy, RDS, Amazon Pinpoint, AWS Budgets, Amazon EventBridge, CloudSearch, Route 53, Auto Scaling, CloudFormation, Elastic Load Balancing, IAM, and KMS
+
+**Tech Stack**: AWS (Lambda, API Gateway, DynamoDB, CloudWatch, SNS, SQS, CodePipeline, CodeBuild, VPC, EC2), Python, Docker, Git, RESTful APIs
+
+**Key Learnings**: This internship provided a strong foundation in AWS cloud services, Infrastructure as Code, CI/CD automation, and serverless architectures, setting the stage for my professional DevOps career.
 
 ---
 

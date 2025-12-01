@@ -109,35 +109,6 @@ focus: "Building scalable, reliable, and secure cloud-native solutions"
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
----
-
-## 🎯 Current Focus
-
-```python
-class CurrentWork:
-    def __init__(self):
-        self.role = "Senior Cloud DevOps Engineer @ GoSaaS Inc"
-        self.projects = [
-            "Deploying production workloads on Kubernetes clusters",
-            "Building observability stack with Prometheus, Loki & Grafana",
-            "Implementing DataDog for APM and infrastructure monitoring",
-            "Automating infrastructure provisioning with Terraform",
-            "Designing multi-cloud architectures for high availability",
-            "Optimizing CI/CD pipelines for faster deployments"
-        ]
-        self.learning = ["Service Mesh (Istio)", "Platform Engineering", "FinOps"]
-    
-    def daily_routine(self):
-        return [
-            "☕ Coffee & Kubernetes",
-            "🔧 Infrastructure automation",
-            "📊 Monitoring & alerting",
-            "🚀 CI/CD optimization",
-            "📚 Learning new tools"
-        ]
-```
-
----
 
 ## 🏆 Certifications
 
@@ -170,7 +141,7 @@ class CurrentWork:
 **Senior Cloud DevOps Engineer** | *Feb 2023 - Present (2+ years)*  
 📍 Lahore, Punjab, Pakistan | [GoSaaS.ai](https://www.gosaas.ai/)
 
-[GoSaaS](https://www.gosaas.ai/) helps clients design, build, sell and ship better products with Oracle. We specialize in PLM, Logistics, AI & Analytics, and Oracle Cloud implementations.
+[GoSaaS](https://www.gosaas.ai/) helps clients design, build, sell, and ship better products with AWS & Oracle. We specialize in PLM, Logistics, AI & Analytics, and Oracle Cloud implementations.
 
 #### Key Achievements & Responsibilities:
 
